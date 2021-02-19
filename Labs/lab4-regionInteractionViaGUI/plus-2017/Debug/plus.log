@@ -1,3 +1,0 @@
-﻿  main.c
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  plus.vcxproj -> C:\Teaching\MachineVision\code\plus-2017\.\Debug\plus.exe

@@ -1,0 +1,23 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.c
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\globals.h(68,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\globals.h(69,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\globals.h(70,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\globals.h(76,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(201,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(305,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(314,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(323,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(346,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(398,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(837,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(910,86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(949,95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(969,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(970,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(1116,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(1196,86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(1216,95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(1236,101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\main.c(1237,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  plus.vcxproj -> C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\.\Debug\plus.exe

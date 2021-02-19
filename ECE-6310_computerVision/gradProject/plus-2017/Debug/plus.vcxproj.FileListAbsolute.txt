@@ -1,0 +1,4 @@
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\VSstudio\plus-2017\Debug\plus.exe
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\VSstudio\plus-2017\Debug\plus.pdb
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\Debug\plus.exe
+C:\Users\jlawl\Documents\Clemson doc\ECE-6310-Compvision\GradProject\plus-2017\Debug\plus.pdb

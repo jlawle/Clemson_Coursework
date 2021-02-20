@@ -3,6 +3,8 @@
 This lab compresses and decompresses uses the LZW algorithm
     It generates a dictionary on compression and decompression to run
     values against and compare/build
+    
+    ./run [-c or -d] [filename]
 */
 
 #include <stdio.h>

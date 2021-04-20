@@ -1,2 +1,4 @@
-# 3520_P1
-Hopfield Neural Network Porgrammed using OCaml
+# 3220 Operating Systems
+
+Project 1 - Interprocess communication between Server and Client
+
